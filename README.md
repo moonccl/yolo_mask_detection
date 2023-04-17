@@ -1,2 +1,3 @@
 # yolo_mask_detection
-ji y
+
+基于yolo算法的口罩检测
